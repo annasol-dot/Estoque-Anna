@@ -6,8 +6,8 @@ def menu_principal():
         print("--- MENU DO ESTOQUE ---")
         print("==============================")
         print("1. Cadastrar Produto")
-        print("2. Adicionar Estoque (Entrada)")
-        print("3. Remover Estoque (Saída)")
+        print("2. Resgistrar Entrada")
+        print("3. Resgistrar Sáida")
         print("4. Consultar Produto por ID")
         print("5. Sair")
         
