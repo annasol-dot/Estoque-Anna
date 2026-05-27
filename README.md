@@ -1,4 +1,4 @@
-# Estoque-Anna
+# Gestão-de-Estoque-Anna-Clara
 
 Sistema criado para gestão de estoque de diversos produtos, desenvolvido em python utilizando o banco de dados relacional sqlite3. O sistema permite o cadastro de produtos, registrar entrada e saída (adicionar e remover) e consulta de estoque.
 
